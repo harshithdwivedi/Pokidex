@@ -21,4 +21,4 @@ Android app that identifies and detects Pokemon in the provided Image using Tens
 ![](https://i.imgur.com/dgOZaW1.jpg) 
 ![](https://i.imgur.com/T1ytvCa.jpg)
 
-Built with ❤️ by [@the-dagger](https://github.com/the-dagger)
+Built with ❤️ by ~~[@the-dagger](https://github.com/the-dagger)~~ [@harshithdwivedi](https://github.com/harshithdwivedi)
